@@ -1,0 +1,15 @@
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.AssemblyInfo.cs
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\bin\Debug\net6.0\MachineDashboardingInfrastructure.deps.json
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\bin\Debug\net6.0\MachineDashboardingInfrastructure.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\bin\Debug\net6.0\MachineDashboardingInfrastructure.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.csproj.CopyComplete
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\refint\MachineDashboardingInfrastructure.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\MachineDashboardingInfrastructure.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\obj\Debug\net6.0\ref\MachineDashboardingInfrastructure.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\bin\Debug\net6.0\MachineDashboardingDomain.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboardingInfrastructure\bin\Debug\net6.0\MachineDashboardingDomain.pdb

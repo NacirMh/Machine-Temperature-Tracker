@@ -1,0 +1,11 @@
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\bin\Debug\net6.0\MachineDashboarding.deps.json
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\bin\Debug\net6.0\MachineDashboarding.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\bin\Debug\net6.0\MachineDashboarding.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\MachineDashboarding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\MachineDashboarding.AssemblyInfoInputs.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\MachineDashboarding.AssemblyInfo.cs
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\MachineDashboarding.csproj.CoreCompileInputs.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\MachineDashboarding.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\refint\MachineDashboarding.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\MachineDashboarding.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineDashboarding\obj\Debug\net6.0\ref\MachineDashboarding.dll

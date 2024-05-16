@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MachineManagerBusiness/1.0.0": {
+        "dependencies": {
+          "MachineDashboardingDomain": "1.0.0.0",
+          "MachineDashboardingInfrastructure": "1.0.0.0"
+        },
+        "runtime": {
+          "MachineManagerBusiness.dll": {}
+        }
+      },
+      "MachineDashboardingDomain/1.0.0.0": {
+        "runtime": {
+          "MachineDashboardingDomain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MachineDashboardingInfrastructure/1.0.0.0": {
+        "runtime": {
+          "MachineDashboardingInfrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MachineDashboarding/1.0.0.0": {
+        "runtime": {
+          "MachineDashboarding.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MachineManagerBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MachineDashboardingDomain/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MachineDashboardingInfrastructure/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MachineDashboarding/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

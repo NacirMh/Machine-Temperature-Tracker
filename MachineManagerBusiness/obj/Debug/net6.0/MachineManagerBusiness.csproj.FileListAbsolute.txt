@@ -1,0 +1,17 @@
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineManagerBusiness.deps.json
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineManagerBusiness.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingDomain.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingInfrastructure.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingDomain.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingInfrastructure.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.csproj.AssemblyReference.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.AssemblyInfoInputs.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.AssemblyInfo.cs
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.csproj.CopyComplete
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\refint\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.pdb
+C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\ref\MachineManagerBusiness.dll
