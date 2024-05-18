@@ -1,12 +1,5 @@
-﻿using MachineDashboarding.Entities;
-using MachineDashboarding.Istructure;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using MachineDashboarding.Istructure;
+
 
 namespace MachineManagerBusiness.services
 {
@@ -20,7 +13,6 @@ namespace MachineManagerBusiness.services
             mutex = new Mutex();
 
         }
-
 
 
         public void startTracing(int m)
