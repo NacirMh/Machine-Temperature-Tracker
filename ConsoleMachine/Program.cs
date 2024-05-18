@@ -9,7 +9,14 @@ IDAOMachine dbMachine = new DAOImpMachine();
 
 Manager dashboard = new Manager(dbMachine);
 
-dashboard.demarrerTracing(1);
+
+
+
+
+
+dashboard.startTracing(1);
+dashboard.startTracing(2);
+
 
 while (true)
 {

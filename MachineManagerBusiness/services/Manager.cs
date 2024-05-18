@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace MachineManagerBusiness.services
@@ -12,36 +13,46 @@ namespace MachineManagerBusiness.services
     public class Manager
     {
         IDAOMachine DAOmachine;
-        float lastTemperature;
-
+        Mutex mutex;
         public Manager(IDAOMachine dao)
         {
             DAOmachine = dao;
+            mutex = new Mutex();
+
         }
 
-        public void demarrerTracing(int m)
-        {
 
-            Thread threadmachine = new Thread(new ThreadStart(() =>
+
+        public void startTracing(int m)
+        {
+            float lastTemperature=0;
+            Thread threadmachine = new Thread(
+            () =>
             {
-                float currentTemperature;
                 while (true)
                 {
-                    currentTemperature = DAOmachine.getTemperature(m);
-                    if (lastTemperature != currentTemperature)
+
+                    if (mutex.WaitOne())
                     {
-                        lastTemperature = currentTemperature;
-                        
-                        Console.ForegroundColor =  ConsoleColor.Red;
-                        Console.WriteLine(lastTemperature);
-                        Console.ResetColor();
+                        float temperature = DAOmachine.getTemperature(m);
+                        if ( lastTemperature != temperature)
+                        {
+                            lastTemperature = temperature;
+                            Console.ForegroundColor = lastTemperature > 50 ? ConsoleColor.Red : ConsoleColor.Blue;
+                            Console.WriteLine($"machine : {m} temperature : {lastTemperature}");
+                        }
+                        mutex.ReleaseMutex();
+
                     }
 
+                    Console.ResetColor();
+
+
                     Thread.Sleep(10000);
-                 
+
                 }
 
-            }));
+            });
             threadmachine.Start();
 
         }
