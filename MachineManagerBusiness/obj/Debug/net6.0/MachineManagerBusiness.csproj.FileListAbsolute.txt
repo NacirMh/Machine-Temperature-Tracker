@@ -15,3 +15,21 @@ C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusine
 C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\refint\MachineManagerBusiness.dll
 C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.pdb
 C:\Users\Nacir\Desktop\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\ref\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineManagerBusiness.deps.json
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineManagerBusiness.pdb
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingDomain.dll
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingInfrastructure.dll
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingDomain.pdb
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\bin\Debug\net6.0\MachineDashboardingInfrastructure.pdb
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.csproj.AssemblyReference.cache
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.AssemblyInfoInputs.cache
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.AssemblyInfo.cs
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.sourcelink.json
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineM.8F94E5C6.Up2Date
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\refint\MachineManagerBusiness.dll
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\MachineManagerBusiness.pdb
+C:\Users\Nacir\Desktop\nacir nerd\studies\DSI\.net\MachineDashboarding\MachineManagerBusiness\obj\Debug\net6.0\ref\MachineManagerBusiness.dll

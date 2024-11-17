@@ -1,25 +1,24 @@
 ﻿using MachineDashboarding.Istructure;
+using MachineDashboardingDomain.Interfaces;
 
 
 namespace MachineManagerBusiness.services
 {
-    public class Manager
+    public class MachineManagement: IMachineManagement
     {
         IDAOMachine DAOmachine;
         Mutex mutex;
-        public Manager(IDAOMachine dao)
+        public MachineManagement(IDAOMachine dao)
         {
             DAOmachine = dao;
             mutex = new Mutex();
-
         }
 
 
         public void startTracing(int m)
         {
             float lastTemperature=0;
-            Thread threadmachine = new Thread(
-            () =>
+            Thread threadmachine = new Thread(() =>
             {
                 while (true)
                 {

@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8ED21A-4C21-4884-A22F-85A2C8DBFA52}|MachineManagerBusiness\\MachineManagerBusiness.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinemanagerbusiness\\services\\machinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8ED21A-4C21-4884-A22F-85A2C8DBFA52}|MachineManagerBusiness\\MachineManagerBusiness.csproj|solutionrelative:machinemanagerbusiness\\services\\machinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BD1208-CBC3-4BB2-81FD-4A3DBAA3B55D}|MachineDashboardingInfrastructure\\MachineDashboardingInfrastructure.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinedashboardinginfrastructure\\connectiondb\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD1208-CBC3-4BB2-81FD-4A3DBAA3B55D}|MachineDashboardingInfrastructure\\MachineDashboardingInfrastructure.csproj|solutionrelative:machinedashboardinginfrastructure\\connectiondb\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinedashboarding\\machinedashboardingdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|solutionrelative:machinedashboarding\\machinedashboardingdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4940BEA-4EDD-4F4B-B7AF-6251DA56C822}|ConsoleMachine\\ConsoleMachine.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\consolemachine\\consolemachine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B4940BEA-4EDD-4F4B-B7AF-6251DA56C822}|ConsoleMachine\\ConsoleMachine.csproj|solutionrelative:consolemachine\\consolemachine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4940BEA-4EDD-4F4B-B7AF-6251DA56C822}|ConsoleMachine\\ConsoleMachine.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\consolemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4940BEA-4EDD-4F4B-B7AF-6251DA56C822}|ConsoleMachine\\ConsoleMachine.csproj|solutionrelative:consolemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BD1208-CBC3-4BB2-81FD-4A3DBAA3B55D}|MachineDashboardingInfrastructure\\MachineDashboardingInfrastructure.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinedashboardinginfrastructure\\daoimp\\daoimpmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD1208-CBC3-4BB2-81FD-4A3DBAA3B55D}|MachineDashboardingInfrastructure\\MachineDashboardingInfrastructure.csproj|solutionrelative:machinedashboardinginfrastructure\\daoimp\\daoimpmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinedashboarding\\interfaces\\idaomachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|solutionrelative:machinedashboarding\\interfaces\\idaomachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinedashboarding\\interfaces\\imachinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|solutionrelative:machinedashboarding\\interfaces\\imachinemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|c:\\users\\nacir\\desktop\\nacir nerd\\studies\\dsi\\.net\\machinedashboarding\\machinedashboarding\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAF7D50-E0B0-4CDA-B194-6316CD9B8E62}|MachineDashboarding\\MachineDashboardingDomain.csproj|solutionrelative:machinedashboarding\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboardingInfrastructure\\ConnectionDB\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "MachineDashboardingInfrastructure\\ConnectionDB\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboardingInfrastructure\\ConnectionDB\\ConnectionManager.cs",
+              "RelativeToolTip": "MachineDashboardingInfrastructure\\ConnectionDB\\ConnectionManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:30:50.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MachineDashboardingDomain",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\MachineDashboardingDomain.csproj",
+              "RelativeDocumentMoniker": "MachineDashboarding\\MachineDashboardingDomain.csproj",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\MachineDashboardingDomain.csproj",
+              "RelativeToolTip": "MachineDashboarding\\MachineDashboardingDomain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T11:30:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleMachine",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\ConsoleMachine\\ConsoleMachine.csproj",
+              "RelativeDocumentMoniker": "ConsoleMachine\\ConsoleMachine.csproj",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\ConsoleMachine\\ConsoleMachine.csproj",
+              "RelativeToolTip": "ConsoleMachine\\ConsoleMachine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T11:25:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\ConsoleMachine\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\ConsoleMachine\\Program.cs",
+              "RelativeToolTip": "ConsoleMachine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:17:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDAOMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\Interfaces\\IDAOMachine.cs",
+              "RelativeDocumentMoniker": "MachineDashboarding\\Interfaces\\IDAOMachine.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\Interfaces\\IDAOMachine.cs",
+              "RelativeToolTip": "MachineDashboarding\\Interfaces\\IDAOMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:16:21.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMachineManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\Interfaces\\IMachineManagement.cs",
+              "RelativeDocumentMoniker": "MachineDashboarding\\Interfaces\\IMachineManagement.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\Interfaces\\IMachineManagement.cs",
+              "RelativeToolTip": "MachineDashboarding\\Interfaces\\IMachineManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:16:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineManagerBusiness\\services\\MachineManagement.cs",
+              "RelativeDocumentMoniker": "MachineManagerBusiness\\services\\MachineManagement.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineManagerBusiness\\services\\MachineManagement.cs",
+              "RelativeToolTip": "MachineManagerBusiness\\services\\MachineManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:13:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOImpMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboardingInfrastructure\\DAOImp\\DAOImpMachine.cs",
+              "RelativeDocumentMoniker": "MachineDashboardingInfrastructure\\DAOImp\\DAOImpMachine.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboardingInfrastructure\\DAOImp\\DAOImpMachine.cs",
+              "RelativeToolTip": "MachineDashboardingInfrastructure\\DAOImp\\DAOImpMachine.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:13:23.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\Entities\\Machine.cs",
+              "RelativeDocumentMoniker": "MachineDashboarding\\Entities\\Machine.cs",
+              "ToolTip": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboarding\\Entities\\Machine.cs",
+              "RelativeToolTip": "MachineDashboarding\\Entities\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:13:11.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

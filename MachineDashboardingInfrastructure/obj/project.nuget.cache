@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Gt9ZOTUAr/zuBRnTx8aqy8s1gucxxgzy+NGClCY8HI6TEJjepgDbSFRxzUK3ATgpa1a78vBPOChsU3Fj284PQ==",
+  "dgSpecHash": "xBhpK29CYFg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nacir\\Desktop\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboardingInfrastructure\\MachineDashboardingInfrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Nacir\\Desktop\\nacir nerd\\studies\\DSI\\.net\\MachineDashboarding\\MachineDashboardingInfrastructure\\MachineDashboardingInfrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nacir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\Nacir\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",

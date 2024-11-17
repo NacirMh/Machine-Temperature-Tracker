@@ -1,4 +1,5 @@
 ﻿using MachineDashboarding.Istructure;
+using MachineDashboardingDomain.Interfaces;
 using MachineDashboardingInfrastructure.DAOImp;
 using MachineManagerBusiness.services;
 
@@ -6,7 +7,8 @@ IDAOMachine dbMachine = new DAOImpMachine();
 
 
 
-Manager dashboard = new Manager(dbMachine);
+
+IMachineManagement dashboard = new MachineManagement(dbMachine);
 
 
 dashboard.startTracing(1);
