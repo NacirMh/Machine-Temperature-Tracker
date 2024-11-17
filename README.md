@@ -1,0 +1,1 @@
+A console application developed with .NET 6 and MySQL, designed to track machine temperatures. This project emphasizes learning threading for concurrent processing and implementing clean architecture principles to ensure a scalable and maintainable codebase.
